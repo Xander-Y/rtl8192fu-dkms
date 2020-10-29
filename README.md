@@ -34,7 +34,7 @@ for xUbuntu 16.04-18.04-20.04-21.10 / Linux Mint 18.x-19.x-20.x
 
 `sudo apt-get update`
 
-`sudo apt install rtl8192fu-dkms
+`sudo apt install rtl8192fu-dkms`
 
 
 You can purge packages with following commands
