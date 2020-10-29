@@ -1,4 +1,4 @@
-For Kernel 4.15.x ~ 5.9.x (Linux Mint, Ubuntu or Debian Derivatives)
+RTL8192FU driver for Linux kernel (up to version 5.9)
 
 ------------------
 
